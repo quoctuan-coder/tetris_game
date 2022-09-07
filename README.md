@@ -1,6 +1,6 @@
 ### How to code **tetris** game on Ubuntu usinge SFML/Graphics
 
-![image](tetris_game/images/infor.png)
+![image](tetris_game/images/Infor.png)
 
 Need to lib SFML/Graphics
 
