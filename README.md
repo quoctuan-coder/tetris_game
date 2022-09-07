@@ -1,11 +1,14 @@
 ### How to code **tetris** game on Ubuntu usinge SFML/Graphics
 
+![image](images/infor.png)
+
 Need to lib SFML/Graphics
 
 **How to install**
 
-> sudo apt-get install libsfml-dev
+>sudo apt-get install libsfml-dev
 
+Location
 //usr/include/SFML/
 
 ------
