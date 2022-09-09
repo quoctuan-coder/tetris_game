@@ -13,7 +13,7 @@ You can download source code, images and install lib on Ubuntu to run tetris gam
 
 ### Result
 
-<img src ="/images/Infor.png"  width =50% height =50% >
+<img src ="/images/Infor.png"  width =75% height =75% >
 
 Need to install  SFML/Graphics library.
 
