@@ -13,22 +13,25 @@ Background and tiles
 
 ![image](/images/Infor.png)
 
-Need to lib SFML/Graphics
+Need to install  SFML/Graphics library.
 
 #### How to install
 
->sudo apt-get install libsfml-dev
+```
+sudo apt-get install libsfml-dev
+```
 
 Location store library
 
-/usr/include/SFML/
+
+*/usr/include/SFML/*
 
 
 #### How to compile
-
->g++ -c tetris.cpp
-
->g++ tetris.o -o tetris -lsfml-graphics -lsfml-window -lsfml-system
+```
+g++ -c tetris.cpp
+g++ tetris.o -o tetris -lsfml-graphics -lsfml-window -lsfml-system
+```
 
 #### How to run
 
