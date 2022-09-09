@@ -8,12 +8,12 @@ You can download source code, images and install lib on Ubuntu to run tetris gam
 
 ### Background and tiles
 
-![image](/images/background.png = 150x225)
+<img src="/images/background.png"  width= "150" height = "225">
 ![image](/images/tiles.png)
 
 ### Result
 
-![image](/images/Infor.png = 720x480)
+<img src ="/images/Infor.png"  width ="720" height ="480">
 
 Need to install  SFML/Graphics library.
 
